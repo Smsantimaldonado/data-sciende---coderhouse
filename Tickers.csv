@@ -1,0 +1,96 @@
+Symbol,Nombre oficial,Sector,Subsector,Security Name,Country
+AAPL,APPLE INC.,Information Technology,"Computers, Phones & Household Electronics",Apple Inc. - Common Stock,United States
+MSFT,MICROSOFT CORPORATION,Information Technology,Software & IT Services,Microsoft Corporation - Common Stock,United States
+AMZN,"AMAZON.COM, INC.",Consumer Staples,Diversified Retail,"Amazon.com, Inc. - Common Stock",United States
+GOOGL,ALPHABET INC.,Information Technology,Software & IT Services,Google Inc. - Class A Common Stock,United States
+GOOG,ALPHABET INC.,Information Technology,Software & IT Services,Google Inc. - Class C Capital Stock,United States
+TSLA,"TESLA, INC.",Industrials,Automobiles & Auto Parts,"Tesla Motors, Inc. - Common Stock",United States
+BRK.B,BERKSHIRE HATHAWAY INC.,Consumer Staples,Consumer Goods Conglomerates,Berkshire Hathaway Inc. New Common Stock,United States
+UNH,UNITEDHEALTH GROUP INCORPORATED,Health Care,Healthcare Providers & Services,UnitedHealth Group Incorporated Common Stock (DE),United States
+JNJ,Johnson & Johnson,Health Care,,Johnson & Johnson Common Stock,United States
+XOM,EXXON MOBIL CORPORATION,Energy,Oil & Gas,Exxon Mobil Corporation Common Stock,United States
+FB,"Facebook, Inc.",Communication Services,,"Facebook, Inc. - Class A Common Stock",United States
+NVDA,NVIDIA CORPORATION,Information Technology,Semiconductors & Semiconductor Equipment,NVIDIA Corporation - Common Stock,United States
+PG,Procter & Gamble,Consumer Staples,,Procter & Gamble Company (The) Common Stock,United States
+JPM,JPMORGAN CHASE & CO.,Financials,Banking Services,JP Morgan Chase & Co. Common Stock,United States
+V,VISA INC.,Information Technology,Software & IT Services,Visa Inc.,United States
+PFE,Pfizer Inc.,Health Care,,Pfizer Inc. Common Stock,United States
+HD,"THE HOME DEPOT, INC.",Consumer Staples,Specialty Retailers,Home Depot Inc. (The) Common Stock,United States
+CVX,CHEVRON CORPORATION,Energy,Oil & Gas,Chevron Corporation Common Stock,United States
+MA,MASTERCARD INCORPORATED.,Information Technology,Software & IT Services,Mastercard Incorporated Common Stock,United States
+ABBV,ABBVIE INC.,Health Care,Pharmaceuticals,AbbVie Inc. Common Stock,United States
+LLY,ELI LILLY AND COMPANY,Health Care,Pharmaceuticals,Eli Lilly and Company Common Stock,United States
+KO,Coca-Cola Company,Consumer Staples,,Coca-Cola Company (The) Common Stock,United States
+MRK,"MERCK & CO., INC.",Health Care,Pharmaceuticals,Merck & Company Inc. Common Stock (new),United States
+PEP,"PEPSICO, INC.",Consumer Staples,Beverages,PepsiCo Inc. Common Stock,United States
+BAC,Bank of America Corp,Financials,,Bank of America Corporation Common Stock,United States
+COST,COSTCO WHOLESALE CORPORATION,Consumer Staples,Diversified Retail,Costco Wholesale Corporation - Common Stock,United States
+VZ,VERIZON COMMUNICATIONS INC.,Communication Services,Telecommunications Services,Verizon Communications Inc. Common Stock,United States
+TMO,THERMO FISHER SCIENTIFIC INC.,Health Care,Healthcare Equipment & Supplies,Thermo Fisher Scientific Inc Common Stock,United States
+AVGO,Broadcom Inc.,Information Technology,Semiconductors & Semiconductor Equipment,Avago Technologies Limited - Ordinary Shares,United States
+ABT,ABBOTT LABORATORIES,Health Care,Healthcare Equipment & Supplies,Abbott Laboratories Common Stock,United States
+MCD,MCDONALD'S CORPORATION,Real Estate,Hotels & Entertainment Services,McDonald's Corporation Common Stock,United States
+CMCSA,COMCAST CORPORATION,Utilities,Media & Publishing,Comcast Corporation - Class A Common Stock,United States
+CSCO,"CISCO SYSTEMS, INC.",Communication Services,Communications & Networking,"Cisco Systems, Inc. - Common Stock",United States
+DIS,The Walt Disney Company,Communication Services,,Walt Disney Company (The) Common Stock,United States
+ADBE,ADOBE INC.,Information Technology,Software & IT Services,Adobe Systems Incorporated - Common Stock,United States
+WMT,WALMART INC.,Consumer Staples,Food & Drug Retailing,Walmart Inc. Common Stock,United States
+CRM,"SALESFORCE, INC.",Information Technology,Software & IT Services,Salesforce.com Inc Common Stock,United States
+DHR,DANAHER CORPORATION,Health Care,Healthcare Equipment & Supplies,Danaher Corporation Common Stock,United States
+BMY,BRISTOL-MYERS SQUIBB COMPANY,Health Care,Pharmaceuticals,Bristol-Myers Squibb Company Common Stock,United States
+NEE,"NEXTERA ENERGY, INC.",Utilities,Electrical Utilities & IPPs,NextEra Energy Inc. Common Stock,United States
+PM,Philip Morris International Inc.,Consumer Staples,Food & Tobacco,Philip Morris International Inc Common Stock,United States
+WFC,WELLS FARGO & COMPANY,Financials,Banking Services,Wells Fargo & Company Common Stock,United States
+T,AT&T INC.,Communication Services,Telecommunications Services,AT&T Inc.,United States
+INTC,INTEL CORPORATION,Information Technology,Semiconductors & Semiconductor Equipment,Intel Corporation - Common Stock,United States
+RTX,RAYTHEON TECHNOLOGIES CORPORATION,Aerospace & Defense,Aerospace & Defense,Raytheon Technologies Corporation Common Stock,United States
+QCOM,QUALCOMM INCORPORATED,Information Technology,Semiconductors & Semiconductor Equipment,QUALCOMM Incorporated - Common Stock,United States
+TXN,TEXAS INSTRUMENTS INCORPORATED,Information Technology,Semiconductors & Semiconductor Equipment,Texas Instruments Incorporated - Common Stock,United States
+UPS,"UNITED PARCEL SERVICE, INC.",Utilities,Freight & Logistics Services,United Parcel Service Inc. Common Stock,United States
+UNP,UNION PACIFIC CORPORATION,Utilities,Freight & Logistics Services,Union Pacific Corporation Common Stock,United States
+AMGN,AMGEN INC.,Health Care,Pharmaceuticals,Amgen Inc. - Common Stock,United States
+NKE,"NIKE, INC.",Industrials,Textiles & Apparel,Nike Inc. Common Stock,United States
+IBM,INTERNATIONAL BUSINESS MACHINES CORPORATION,Information Technology,Software & IT Services,International Business Machines Corporation Common Stock,United States
+CVS,CVS HEALTH CORPORATION,Health Care,Healthcare Providers & Services,CVS Health Corporation Common Stock,United States
+MDT,MEDTRONIC PUBLIC LIMITED COMPANY,Health Care,Healthcare Equipment & Supplies,Medtronic plc. Ordinary Shares,United States
+SPGI,S&P Global Inc.,Utilities,Professional & Commercial Services,S&P Global Inc. Common Stock,United States
+AMD,"ADVANCED MICRO DEVICES, INC.",Information Technology,Semiconductors & Semiconductor Equipment,"Advanced Micro Devices, Inc. - Common Stock",United States
+AMT,AMERICAN TOWER CORPORATION,Real Estate,Residential & Commercial REIT,American Tower Corporation (REIT) Common Stock,United States
+HON,HONEYWELL INTERNATIONAL INC.,Consumer Staples,Consumer Goods Conglomerates,Honeywell International Inc. Common Stock,United States
+COP,ConocoPhillips,Energy,,ConocoPhillips Common Stock,United States
+LOW,"LOWE'S COMPANIES, INC.",Consumer Staples,Specialty Retailers,Lowe's Companies Inc. Common Stock,United States
+ORCL,ORACLE CORPORATION,Information Technology,Software & IT Services,Oracle Corporation Common Stock,United States
+INTU,INTUIT INC.,Information Technology,Financial Technology (Fintech) & Infrastructure,Intuit Inc. - Common Stock,United States
+MS,MORGAN STANLEY,Financials,Investment Banking & Investment Services,Morgan Stanley Common Stock,United States
+LMT,LOCKHEED MARTIN CORPORATION,Aerospace & Defense,Aerospace & Defense,Lockheed Martin Corporation Common Stock,United States
+GS,"THE GOLDMAN SACHS GROUP, INC.",Financials,Investment Banking & Investment Services,Goldman Sachs Group Inc. (The) Common Stock,United States
+SCHW,THE CHARLES SCHWAB CORPORATION,Financials,Investment Banking & Investment Services,Charles Schwab Corporation (The) Common Stock,United States
+NOW,ServiceNow,Information Technology,,ServiceNow Inc. Common Stock,United States
+CAT,CATERPILLAR INC.,Industrials,"Machinery, Equipment & Components",Caterpillar Inc. Common Stock,United States
+C,CITIGROUP INC.,Financials,Banking Services,Citigroup Inc. Common Stock,United States
+ADP,"AUTOMATIC DATA PROCESSING, INC.",Information Technology,Software & IT Services,"Automatic Data Processing, Inc. - Common Stock",United States
+SBUX,STARBUCKS CORPORATION,Real Estate,Hotels & Entertainment Services,Starbucks Corporation - Common Stock,United States
+PLD,"PROLOGIS, INC.",Real Estate,Residential & Commercial REIT,Prologis Inc. Common Stock,United States
+MDLZ,"Mondelez International, Inc.",Consumer Staples,Food & Tobacco,"Mondelez International, Inc. - Class A Common Stock",United States
+BLK,"BLACKROCK, INC.",Financials,Investment Banking & Investment Services,BlackRock Inc. Common Stock,United States
+AXP,AMERICAN EXPRESS COMPANY,Financials,Banking Services,American Express Company Common Stock,United States
+DE,DEERE & COMPANY,Industrials,"Machinery, Equipment & Components",Deere & Company Common Stock,United States
+CI,CIGNA CORPORATION,Health Care,Healthcare Providers & Services,Cigna Corporation Common Stock,United States
+DUK,DUKE ENERGY CORPORATION,Utilities,Electrical Utilities & IPPs,Duke Energy Corporation (Holding Company) Common Stock,United States
+PYPL,"PAYPAL HOLDINGS, INC.",Information Technology,Software & IT Services,PayPal Holdings Inc. Common Stock,United States
+ZTS,ZOETIS INC.,Health Care,Pharmaceuticals,Zoetis Inc. Class A Common Stock,United States
+TMUS,"T-MOBILE US, INC.",Communication Services,Telecommunications Services,T-Mobile US Inc. Common Stock,United States
+NFLX,"NETFLIX, INC.",Information Technology,Software & IT Services,"Netflix, Inc. - Common Stock",United States
+MMC,Marsh & McLennan,Financials,,Marsh & McLennan Companies Inc. Common Stock,United States
+SO,Southern Co,Utilities,Electrical Utilities & IPPs,Southern Company (The) Common Stock,United States
+GILD,"Gilead Sciences, Inc.",Health Care,,"Gilead Sciences, Inc. - Common Stock",United States
+MO,"Altria Group, Inc.",Consumer Staples,Food & Tobacco,Altria Group Inc.,United States
+BA,THE BOEING COMPANY,Aerospace & Defense,Aerospace & Defense,Boeing Company (The) Common Stock,United States
+AMAT,"APPLIED MATERIALS, INC.",Information Technology,Semiconductors & Semiconductor Equipment,"Applied Materials, Inc. - Common Stock",United States
+ADI,"ANALOG DEVICES, INC.",Information Technology,Semiconductors & Semiconductor Equipment,"Analog Devices, Inc. - Common Stock",United States
+CME,CME GROUP INC.,Financials,Investment Banking & Investment Services,CME Group Inc. - Class A Common Stock,United States
+CCI,CROWN CASTLE INTERNATIONAL CORP.,Real Estate,Residential & Commercial REIT,Crown Castle International Corp. (REIT) Common Stock,United States
+ISRG,"INTUITIVE SURGICAL, INC.",Health Care,Healthcare Equipment & Supplies,"Intuitive Surgical, Inc. - Common Stock",United States
+VRTX,VERTEX PHARMACEUTICALS INCORPORATED,Health Care,Biotechnology & Medical Research,Vertex Pharmaceuticals Incorporated - Common Stock,United States
+MMM,3M COMPANY,Consumer Staples,Consumer Goods Conglomerates,3M Company Common Stock,United States
+NOC,NORTHROP GRUMMAN CORPORATION,Aerospace & Defense,Aerospace & Defense,Northrop Grumman Corporation Common Stock,United States
